@@ -3,3 +3,4 @@ python-nmap
 requests
 colorama
 tabulate
+python-whois
